@@ -1,0 +1,11 @@
+.elapsedBox {
+  height: 200px;
+  display: flex;
+  align-items: flex-end;
+  border: 1px solid black;
+  box-sizing: content-box;
+}
+.elapsedProgress {
+  background-color: black;
+  width: 100%;
+}

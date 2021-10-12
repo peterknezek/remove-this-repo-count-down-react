@@ -1,0 +1,7 @@
+.counterBox {
+  display: flex;
+  flex-flow: column;
+  > * {
+    margin: 4px 0;
+  }
+}
